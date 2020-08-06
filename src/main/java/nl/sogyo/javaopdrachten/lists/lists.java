@@ -1,4 +1,11 @@
-package package1;
+
+// -----------------------------------------------------------
+// "Lists", Assignment 2 Sogyo
+//
+// (C) 2020 Pieke Heijmans
+// -----------------------------------------------------------
+
+package javaopdrachten;
 
 import java.util.Arrays;
 
